@@ -1,0 +1,23 @@
+<resources>
+        <string name="app_name"><m>onApp</m></string>
+    <string name="form_button_text">Ajouter</string>
+    <string name="form_text"> CREER UN PRODUIT</string>
+    <string name="form_designation">Designation</string>
+    <string name="form_description_text">Description</string>
+    <string name="form_prix_text">prix</string>
+    <string name="form_quantite_en_stock_text"> Stock</string>
+    <string name="form_alert_quantite_text">Alert Quantite</string>
+    <string name="info_produit_text"> LE PRODUIT CREER</string>
+    <string name="info_designation_title">Designation</string>
+    <string name="info_description_title">Description</string>
+    <string name="info_prix_title">Prix</string>
+    <string name="info_quantite_title">Quantite Disponible</string>
+    <string name="info_alert_title">Alert Quantite</string>
+    <string name="autre_title">AUTRES</string>
+    <string name="strStock">Stock:1234</string>
+    <string name="strEnregistrer">Enregistrer les modifications</string>
+    <string name="strModifier_form_title">MODIFIER VOTRE PRODUIT CREER</string>
+    <string name="menu_supprimer_text">Supprimer</string>
+    <string name="menu_modifier_text">Modifier</string>
+    <string name="confirmation_de_suppression_de_produit_text">SUPPRIMER PRODUIT CREER</string>
+</resources>
